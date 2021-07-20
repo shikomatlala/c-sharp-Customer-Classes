@@ -1,0 +1,7 @@
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CustomerOrderClass\CustomerOrder\bin\Debug\CustomerOrder.exe.config
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CustomerOrderClass\CustomerOrder\bin\Debug\CustomerOrder.exe
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CustomerOrderClass\CustomerOrder\bin\Debug\CustomerOrder.pdb
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CustomerOrderClass\CustomerOrder\obj\Debug\CustomerOrder.csprojAssemblyReference.cache
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CustomerOrderClass\CustomerOrder\obj\Debug\CustomerOrder.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CustomerOrderClass\CustomerOrder\obj\Debug\CustomerOrder.exe
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CustomerOrderClass\CustomerOrder\obj\Debug\CustomerOrder.pdb
